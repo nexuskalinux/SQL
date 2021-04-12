@@ -1,3 +1,3 @@
 # SQL
 
-Exercice
+Exercices
